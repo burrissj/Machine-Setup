@@ -1,0 +1,42 @@
+{
+    "general": {
+        "SERVERTYPE": "",
+        "ENABLEAUTOLOGON": "",
+        "NAMEMACHINE": "",
+        "MACHINENAME": "",
+        "TIMEZONE": "",
+        "INSTALLBASESOFTWARE": "",
+        "UPDATEWINDOWS": "",
+        "AUTOREBOOT": "y",
+        "CLEANUP": ""
+    },
+    "SQL": {    
+        "INSTALLSQL": "",
+        "SQLLOCATION": "",
+        "BUILDTYPE": "",
+        "NEWDISKS": "",
+        "DISKNUMBER": "",
+        "SQLDRIVE": "",
+        "FILESTREAMDRIVE": "",
+        "DEFAULTINSTANCE": "",
+        "SQLINSTANCE": "",
+        "FILESTREAMINSTANCE": "",
+        "SAPASSWORD": ""
+    },
+    "GPU": {
+        "REMOVECURRENTDRIVER": "",
+        "DRIVERLOCATION": "",
+        "CLEANINSTALL": ""
+    },
+    "LICENSING": {
+        "INSTALLLICENSE": "",
+        "LOCALLICENSE": "",
+        "INSTALLLMX": "",
+        "LICENSELOCATION": ""
+    },
+    "CITRIX": {
+        "INSTALLCITRIX": "",
+        "CITRIXISOLOCATION": "",
+        "DELIVERYCONTROLLERS": ""
+    }
+}
